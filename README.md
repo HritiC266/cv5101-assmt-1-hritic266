@@ -2,6 +2,10 @@
 # Assignment 1 – CV 5101: Modelling, Uncertainty, and Data for Engineers (MUDE)
 
 
+**Score = 100/100, evaluated by Shivakumar K S**
+
+
+
 *Written by: `pradeep, prakash, and sudheendra`*
 
 *Due: `Sunday, Aug 16, 2026`*
